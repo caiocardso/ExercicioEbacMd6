@@ -1,0 +1,16 @@
+1° desligar despertador
+2° levantar da cama
+3° escovar os dentes
+4° beber água
+5° preparar café da manhã
+6° sentar na sala
+7° SE tv estiver ligada
+   1° colocar netflix
+8° SE NÂO
+   1° ligar tv
+   2° colocar netflix
+9° comer café da manhã
+10° desligar tv
+11° guardar copo e prato na pia
+12° estudar no quarto
+13° fim
